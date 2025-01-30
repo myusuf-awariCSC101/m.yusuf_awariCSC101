@@ -1,5 +1,5 @@
 fn main() {
-    println!("pi value is {}", get_pi());
+    println!("\npi value is {}", get_pi());
 }
 
 fn get_pi()->f64 {
