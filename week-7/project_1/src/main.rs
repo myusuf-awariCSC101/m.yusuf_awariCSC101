@@ -103,4 +103,8 @@ fn cube_area(side: f64) -> f64 {
 
 fn cylinder_volume(radius: f64, height: f64) -> f64 {
     std::f64::consts::PI * radius.powf(2.0) * height
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0ef59a46936e2a0dbe3a7742f439091f6fdd22d0
